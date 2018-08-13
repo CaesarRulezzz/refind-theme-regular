@@ -1,6 +1,7 @@
 # rEFInd theme Regular Black
 
 A simplistic clean black and minimal theme for rEFInd
+
 Original theme can be found at https://github.com/munlik/refind-theme-regular
 
 
