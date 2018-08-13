@@ -1,6 +1,7 @@
-# rEFInd theme Regular
+# rEFInd theme Regular Black
 
-A simplistic clean and minimal theme for rEFInd
+A simplistic clean black and minimal theme for rEFInd
+Original theme can be found at https://github.com/munlik/refind-theme-regular
 
 
 ![Screenshot 01](http://i.imgur.com/wQQ5OiQ.png)
@@ -11,7 +12,7 @@ A simplistic clean and minimal theme for rEFInd
 
 1. Clone git repository to your $HOME directory.
    ```
-   git clone https://github.com/munlik/refind-theme-regular.git
+   git clone https://github.com/CaesarRulezzz/refind-theme-regular.git
    ```
 
 2. Locate refind directory under EFI partition. For most Linux based system is commonly `/boot/efi/EFI/refind/`. Copy theme directory to it.
